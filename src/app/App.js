@@ -11,7 +11,6 @@ import AnimatedCursor from "react-animated-cursor";
 import Socialicons from "../components/socialicons";
 import "./App.css";
 
-
 function _ScrollToTop(props) {
   const { pathname } = useLocation();
   useEffect(() => {

@@ -30,8 +30,8 @@ export default function Home() {
                       1000,
                       introdata.animated.second,
                       1000,
-                      introdata.animated.third,
-                      1000,
+                      // introdata.animated.third,
+                      // 1000,
                     ]}
                     loop={Infinity}
                     wrapper="p"
